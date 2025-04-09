@@ -5,7 +5,7 @@ import Imageeee from "../../assets/3.png";
 
 const Features = () => {
   return (
-    <div id="feature" className="w-full min-h-screen p-2 flex items-center bg-gradient-to-b from-white to-fuchsia-200">
+    <div id="feature" className="w-full min-h-screen p-2 flex items-center bg-gradient-to-b from-white to-fuchsia-50">
       <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
       <h2 className="text-4xl font-bold text-gray-800 mb-6">Feature <span className="text-fuchsia-700">Properties</span></h2>
     <p className="text-lg text-gray-700 mb-8">

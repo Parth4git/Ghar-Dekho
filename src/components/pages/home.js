@@ -3,7 +3,7 @@ import Image from "../../assets/main.png";
 
 const HomePage = () => {
   return (
-    <div id="home" className="w-full min-h-screen p-8 flex items-center bg-gradient-to-b from-white to-fuchsia-100">
+    <div id="home" className="w-full min-h-screen p-8 flex items-center bg-gradient-to-b from-white to-fuchsia-50">
       <div className="max-w-7xl mx-auto md:flex md:flex-row-reverse md:items-center">
         <div className="md:w-1/2 md:pr-8 my-11">
         <img

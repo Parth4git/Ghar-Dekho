@@ -3,7 +3,7 @@ import Image from "../../assets/4.png";
 
 const AboutUs = () => {
   return (
-    <div id="about" className="flex flex-col md:flex-row w-full h-screen bg-fuchsia-400">
+    <div id="about" className="flex flex-col md:flex-row w-full h-screen bg-fuchsia-700">
 
       <div className="w-full md:w-1/2 p-0 md:p-8 flex items-center justify-center ">
        
